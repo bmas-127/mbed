@@ -1,12 +1,9 @@
 #include "mbed.h"
-
 #include <cmath>
-
 #include "DA7212.h"
 
 
 #define bufferLength (32)
-
 #define signalLength (1024)
 
 
